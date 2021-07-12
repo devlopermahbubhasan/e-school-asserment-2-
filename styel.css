@@ -1,0 +1,133 @@
+h1,body,h2,h3,h6,h4,h5,a,span{
+    font-family: 'Overpass', sans-serif;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #000000;
+    font-size: 16px;
+    line-height: 24px;
+    padding: 10px 15px;
+}
+.logo{
+    width: 200px;
+    height: auto;
+}
+.web-btm{
+    font-size: 16px;
+    line-height: 40px;
+    background-color: #21B573;
+    padding: 12px 28px;
+    text-decoration: none;
+    border-radius: 33px;
+    color: #FFFFFF;
+}
+.web-btm:visited{
+    color: white;
+}
+
+.text-area h1{
+    font-size: 48px;
+    font-weight: 700;
+}
+.text-area{
+    width: 365px;
+}
+.bannar-img img{
+width: 830px;
+}
+.card{
+    background: #F8FFFB;
+    border: none;
+    box-shadow: 5px 5px 10px rgb(226, 219, 219);
+    border-radius: 10px;
+    margin-bottom: 28px;
+}
+.card img{
+    width: 66px;
+    height: 85px;
+    margin: auto;
+}
+.counter{
+    margin-top: 125px;
+}
+.card-body h2{
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 500;
+}
+.card-body p{
+    color: gray;
+    font-size: 16px;
+}
+.t-styel{
+    color: #413960;
+    font-size: 36px;
+    line-height: 54px;
+    font-weight: 700;
+}
+.img-styel-card{
+    width: 331px !important;
+    height: 234px !important;
+}
+.card-2 h5{
+    margin-left: 22px !important;
+}
+.card-2 p{
+    margin-left: 22px !important;
+}
+.card-2 a{
+    margin-left: 22px !important;
+}
+.flot-left img{
+    float: left;
+    width: 19px;
+    height: auto;
+}
+.flot-left p{
+    font-size: 16px;
+}
+.flot-right img{
+    float: left;
+    width: 19px;
+    height: auto;
+}
+.flot-right p{
+    font-size: 16px;
+}
+.card-footer{
+    border-top: none;
+}
+.h-100 {
+     height: 30% !important;
+     box-shadow: none;
+}
+.img-edit{
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+    margin-left: 310px;
+}
+.testmonial-text{
+    width: 507px;
+    height: 130px;
+    margin-top: 20px;
+}
+.footer{
+    left: 0;
+    background: #282531
+}
+.course{
+    color: white;
+    text-decoration: none;
+    font-size:18px;
+    font-weight: bold;
+    line-height: 30px;
+}
+.menu-text{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 30px;
+}
